@@ -1,3 +1,16 @@
+/*********************************************************************************
+* BTI325 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Samarth Modi Student ID: 133357202 Date: 2022-09-13
+* Online (Cyclic) URL:
+
+*https://panicky-sunglasses-hare.cyclic.app/
+*
+********************************************************************************/ 
+
 var express = require("express");
 var app = express();
 
